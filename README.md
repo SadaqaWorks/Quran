@@ -68,4 +68,6 @@ My proposal: Develop a Quran project with [Flutter](https://flutter.dev/), with 
  Resource: A resource list with Sura, page, word by word, translation will be specified and provides if it's mandatory or not, version, downloaded or not, selected or not, obtained from local and updated from API as well and cache it on ResourceBox, 
  Settings: A box to handle user choice, settings etc
  User: Bookmark, preference
+
+ ## test
  
